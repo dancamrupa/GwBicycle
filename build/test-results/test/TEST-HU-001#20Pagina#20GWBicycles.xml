@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HU-001 Pagina GWBicycles" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-03T03:26:17" hostname="NOHORAPARDO-HP" time="66.338">
+  <properties/>
+  <testcase name="Buscar palabra en la zona de busqueda exitoso" classname="HU-001 Pagina GWBicycles" time="66.338"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 26266
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1622690789.337][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+jun 02, 2021 10:26:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
